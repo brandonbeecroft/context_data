@@ -1,0 +1,10 @@
+City of Richland is 600+ employees and was looking at Bridge for their LMS (we were the top solution at one point) - The major deal breaker for them was that we don't allow for custom email notifications to be sent out. Specifically:
+They are unable to edit the body or message
+Unable to customize notification schedule
+Some courses such as compliance they would like them more frequent
+while others they would want less frequently
+Would like to be able to either use stock messages or have the ability to again customize based on learning item
+Be able to provide links to additional resources or information
+We did not jump into the "work arounds" as a big Pain point for them and why they left NeoGov LMS was that they were promised things on the roadmap and then it was not delivered, or not an actual fix to the problem. They also didn't want to live in a world of work arounds.
+They cited that Adobe LMS has this feature and does it really well and that many other LMS providers offer this and they found it odd that Bridge did not. (Looking at: Litmos, Continue, Tavooti, Cornerstone)
+Some of the other items they had feedback on were that they could not add a PDF/PPT and have that viewable with out using BAV and when they did that it was small and did not present well. Talked about Media Course, but they saw that as a work around, and again could have looked past this had we had the Custom Notifications.

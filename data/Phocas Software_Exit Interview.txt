@@ -1,0 +1,103 @@
+﻿Exit Interview | Phocas Software
+Website
+Date of Projected Renewal: 4/2/23
+Date of Interview: 2/22/23
+Years with Bridge: 7 years
+ARR: $7k
+CSM: BST
+Medium: Live interview
+
+
+Attendee: Carolyn Viso [carolyn.viso@phocassoftware.com]
+TItle: Head of Learning & Development
+
+
+  
+
+HISTORICAL NOTES:
+
+
+* Carolyn has only been with Bridge for last 16 months since she’s been with Phocas
+* First time they’ve had a head of L&D
+   * Carolyn has been in L&D for 17 years
+* Bridge was perfect for Phocas for number of years because there was no real L&D team
+* HR partner looked after it
+* 300 people (will stay there for a number of years)
+   * Global offices that are evenly spread
+   * Hybrid workers and fully remote
+* Challenges with logging in (SSO)
+   * Microsoft365
+   * Would work sometimes and not others
+   * Had to use incognito to login
+   * Had to log out of Microsoft365 and then log back in
+* “No one will leave Bridge saying that it was terrible”
+* Beyond onboarding, people then wouldn’t go back to it very often
+* No champion
+* Low engagement and felt like a legacy platform, so Carolyn struggled to feel like she could press forward with it
+* Carolyn tried to revive it, but there were frustrations around it
+   * Support responses often felt like, “No we won’t do that and we can’t do that”
+* Started researching mid-last year
+   * Went with Learn Amp (UK-based and relatively new, 7-8 years)
+      * More advanced in social learning space
+      * Bridge feels too static and Learm Amp feels more involved in product roadmap and that they are more involved in development conversations
+* Carolyn did her own onboarding through Bridge
+   * Quality of content wasn’t great (not Bridge’s fault)
+* She was pretty alone in her learning of Bridge
+   * Would have appreciated a direct person to speak to
+   * Didn’t feel like she had partnership with Bridge; just ask and receive
+* Learn Amp is doing an 8-week implementation with an implementation partner
+   * Meet for an hour every Monday
+   * Once launched, Carolyn will go to customer success team to have a contact
+      * “Knowing someone personally helps tremendously”
+* Using mostly internally
+* Use lightly a sub-account for consultants
+   * Considering doing the same thing in Learn Amp, which would push user count up significantly
+      * Knew they could do this in Bridge, but they already made the choice for Learn Amp, they had already 
+* Tried to integrate Bridge with Go1
+   * Janky IT work to get this to go through
+   * Not smooth at all and not everything would come through (i.e. course images)
+   * 30k courses in Bridge
+      * Incredibly slow
+      * Not clean to manage
+* Direct integration with Learn Amp and Go1 (didn’t even have to build anything)
+* Also use Articulate360 and Rise
+   * Carolyn was supposed to have a team to do authoring, but right now it’s just her with the state of the economy
+   * Limited on time to build content
+* Learn Amp can sign up for training through Journey
+   * Zoom integration that can run through platform
+      * User joins and launches within Learn Amp
+      * Session can be saved and added as a learnable right after recording
+* Onboarding is currently a Journey
+   * Functionality is great for user
+   * Visibility of it is really hard
+      * Had to have the exact permissions to see what’s in it or be the user
+* Seems like there’s limited access to do things in bulk (i.e. upload courses, archive courses)
+* Learn Amp integrates with Namely (HR Platform)
+   * IT tried to build this out for them in Bridge
+      * New user would get created, but admins had to go in and manually do everything
+   * Tried autoCSV and didn’t work (not sure how much that was tested)
+* “It’s been a good product for us up until this point”
+* It feels like Bridge is just completely stalled on product development
+   * Did not even know we had Perform
+* Not moving anything historical to Learn Amp
+
+
+USE CASES:
+
+
+* Internal onboarding
+USAGE LAST 365 DAYS:
+
+
+  
+
+EFFORTS & THOUGHTS:
+
+
+* Shared that we do have performance software if they are ever interested in a tool
+* Customers may be in “BST” but they don’t seem to really understand that they have another point of contact other than support
+   * Even if they did, this feels confusing and disjointed
+      * “Reach out to this person to do this, but then reach out to this person to do this”
+* We could have certainly serviced their external training use case
+   * How are we marketing this to our existing base of internal use cases?
+* Can we leverage Pendo when new admins are added to get them into the appropriate training or give them a moment of human contact to meet someone?

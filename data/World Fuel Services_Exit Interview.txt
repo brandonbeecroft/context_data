@@ -1,0 +1,119 @@
+﻿Exit Interview | World Fuel Services
+Website
+Date of Projected Renewal: 4/1/23
+Date of Interview: 2/23/23
+Years with Bridge: 4 years
+ARR: $30k
+CSM: Ellie Barton
+Medium: Live interview
+
+
+Attendee: Dalveer Soor [DSoor@wfscorp.com]
+TItle: Procurement Category Lead (HR, Payroll)
+
+
+  
+
+
+
+Attendee: Richard Nath [RNath@wfscorp.com]
+Title: Training Product Manager
+
+
+  
+
+
+
+NOT IN ATTENDANCE: Trip Sood [TSood@wfscorp.com]
+Title: Systems Specialist L&D
+
+
+  
+
+HISTORICAL NOTES:
+* Attendees:
+   * Dalveer is procurement
+   * Rich was doing all admin work for external customer training
+* Two main groups use Bridge
+   * Trip’s group was internal (Trip not on call)
+      * Training that needed to be done yearly
+         * Trip had to rebuild it every year and felt like she never got the answer on if there was a better way
+   * Rich’s group was all external
+      * Customers (businesses with multiple users)
+      * For stickiness
+      * His content was super easy and Bridge worked really well
+         * His users didn’t have REQUIRED trainings
+* Rich taught all the external users how to get into Bridge
+   * Used Bridge courses
+* Dalveer feels like she’s repeated her feedback multiple times
+* “As an organization, we know we don’t spend enough money with Bridge to warrant an account manager”
+* “When Bridge left Instructure, there were issues with members of the team leaving, and we experienced some of the issues (i.e. less support team members)”
+* Tickets were taking too long and absence of SLAs
+* Dalveer says she understands how business works with passing off between support people (which is usually fine), but the lack of a single source of support meant repetitive explanations
+* “We don’t feel like Bridge understood us as a business”
+* “There must certainly have been ways for Bridge to better support for administration”
+   * Same patterns kept happening with enrollments, and why wouldn’t somebody flag them on a best practice?
+* They did get in on a really good deal and were onboarded decently
+* If Rich had the budget, he would potentially keep Bridge himself, but that just wasn’t an option
+* Dalveer and Rich felt like we weren’t an innovator in the market
+   * I asked about their process of delivering feedback, and they said that Trip did tickets and she’d call
+* Licenses sky rocketed at renewal and didn’t make sense why pricing went from $6-7/user to $30/user
+   * They then asked us to go through RFP process in August 2021 and ticket price went back down, which eroded trust
+      * “No one even reached out, so it didn’t feel like Bridge even cared”
+      * “It’s important for us as a company to do that, but it’s a lot of work”
+      * “As the incumbent, we could have talked to you transparently, and no one even said anything”
+* Were told that they needed to spend $100k to get an account manager
+   * Dalveer felt like the complexity of their account and their business net worth could have been factors in that conversation (not just ARR)
+      * They are in the business of acquiring businesses
+   * Would have preferred a conversation of “What’s the strategy for us to work together to increase adoption?” and not be stuck on how much money they were paying to Bridge when they also wanted that number to grow because they were growing
+* Had never been shown the BAV portal (best practices, etc.)
+   * Didn’t know BAV was even a thing for external use case
+* No one has reached out to Rich since they were onboarded four years ago
+   * He very rarely got communications
+   * He is team of one when it comes to training and it’s low on his totem pole to read a newsletter
+* Dalveer uncomfortable to share the new tool
+   * Felt like it would put them at a disadvantage if they ever wanted to come back to Bridge
+* Everything in instance was SCORM
+   * Just got Articulate
+
+
+FOLLOW-UP EMAIL FROM DALVEER:
+
+
+* Due to the lack of a single source of support,  WFS has not received continuity of care, and issues raised are passed between multiple support agents where the GPO team have to repeat/re-explain the issue or our account set up.
+* Bridge has failed to understand WFS requirements from the onset, hence, our labour intensive process to re-create and deploy training each year.
+* Bridge does not provide any kind of ETA with regards to resolution of issues; ID 368143 & 369288 both logged in Dec 2021 took over 8 months to be resolved, this has led to frustrations and lack of confidence in the software from management teams and learners alike.
+* No internal process for different teams to communicate within Bridge, support cannot refer to internal technical/implementation team with regards to solutions offered.
+* The Bridge System is no longer fit for our requirements, cannot show external training, cannot easily and quickly copy and deploy content, solution offered is very labour intensive.
+* No real explanation provided with regards to slow server times, despite the Support Director (Jeremy Farnsworth) advising that he will continue to investigate the issue.
+* Issues raised are closed by Support as soon as a solution is offered, quite often the solution offered has not fixed the issue or the issue has been misunderstood, a new ID is created, hence the vendors support stats look great but the reality is something quite different.
+USE CASES:
+
+
+* Internal onboarding
+* Compliance training
+* External customer training
+USAGE LAST 365 DAYS:
+
+
+  
+
+EFFORTS & THOUGHTS:
+
+
+* Spoke to capabilities of BAV as it relates to external learning training
+   * ​​They didn't know what BAV was or that we had a video-hosting platform; therefore, they didn't know that this platform is primed for customer training
+* Dramatic price changes eroded trust
+* Justin was put in a position to chase these tickets in Slack
+   * He seems to get left hanging on how to handle this
+* What is a customer’s trained escalation process for when they’re frustrated with support feedback but aren’t “strategic” enough to have a 1:1 contact?
+   * At what ticket number were they like “ENOUGH!”?
+* They were looking at self-reg SOW in February 2022 and upsold in April 2022
+* Feels like we lost both use cases at the cost of really only not meeting the needs of one (that is one of our primary use cases)
+* How do we better manage expectations around tickets that go to engineering and check in within reason?
+   * Whose responsibility is it to check in?
+* What data could have been leveraged here to spot trends and divert someone’s attention to this customer?
+   * Ticket volume?
+   * Ticket category consistency?
+   * The RFP initiation?
+* Felt uncomfortable to share their new tool with me
